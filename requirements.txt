@@ -1,0 +1,7 @@
+discord.py
+asyncio
+PyNaCl
+ffmpeg
+ffmpeg-python
+requests
+youtube-dl

@@ -1,0 +1,4 @@
+git+https://github.com/ytdl-org/youtube-dl.git@master#egg=youtube_dl
+git+https://github.com/Rapptz/discord.py
+https://github.com/kitcast/buildpack-ffmpeg.git
+https://github.com/xrisk/heroku-opus.git
